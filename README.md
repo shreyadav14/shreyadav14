@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyadav14
-- 👀 I’m interested in learning new language s.
+- 👀 I’m interested in learning new languages.
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on  digital art
 - 📫 How to reach me yshreya178@gmail.com
