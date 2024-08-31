@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new language s.
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on  digital art
-- 📫 How to reach me yshreya178@gamil.com
+- 📫 How to reach me yshreya178@gmail.com
 - ⚡ Fun fact: I'm too busy to write one 😜😜
 
 <!---
